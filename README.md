@@ -1,7 +1,7 @@
 # NASA-SPACE-APPS-2022
 # Energy storage with gravitational batteries
 
-## HIGH-LEVEL PROJECT SUMMARY 🗣
+## HIGH-LEVEL PROJECT SUMMARY ✒️
 
 We propose the use of gravitational batteries: a mass rises mechanically, storing energy. When descending a mechanical system converts the vertical movement into rotation, which drives the generator. The stored energy is proportional to the mass and height, using simple mechanical elements. In addition, a vertical axis wind turbine will recharge our battery, using surface winds, weak and erratic, but useful due to the high atmospheric density. The final design is a 4000 kg lander, the majority corresponding to the weight of the batteries, with autonomy of 3 hours without winds and a power of 10 W, ideal for continuous meteorological and geological observation.
 
