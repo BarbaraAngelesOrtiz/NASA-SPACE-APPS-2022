@@ -59,7 +59,7 @@ For reference, since it is necessary to accurately determine the losses associat
 6.7 W over 6 hours
 The system to have 3 gravitational batteries with its generator, is redundant in case of failures
 
-![Table2](https://user-images.githubusercontent.com/105976212/193467798-1b99179e-8a56-4046-9242-2e05de263f66.png)
+![Table2](https://user-images.githubusercontent.com/105976212/193467935-f54335d8-702d-4d3a-8846-6821913d23c1.png)
 
 ## Bibliography💬
 
