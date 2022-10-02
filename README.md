@@ -44,7 +44,7 @@ When the mass is at the top of the structure, the stored gravitational potential
 
 To improve the phase adjustment that must be meshed between the input and output rings in a planetary gear set, we propose to use Gear Bearings (GSC-TOPS-12) [3]
 
-![NASA](https://user-images.githubusercontent.com/105976212/193467582-713aba78-7c28-4b76-aa91-bc5d2cd444ec.png)
+![NASA](https://user-images.githubusercontent.com/105976212/193467662-d04c9ee5-d660-487f-ba69-08b9e9bd7bca.png)
 
 In addition, we opted for a planetary roller screw given the adverse conditions of the planet with a guide for the load and considering the experience prior to its positive operation on Mars. [4]
 
@@ -58,6 +58,8 @@ For reference, since it is necessary to accurately determine the losses associat
 13.4 W over 3 hours
 6.7 W over 6 hours
 The system to have 3 gravitational batteries with its generator, is redundant in case of failures
+
+![Table2](https://user-images.githubusercontent.com/105976212/193467798-1b99179e-8a56-4046-9242-2e05de263f66.png)
 
 ## Bibliography💬
 
