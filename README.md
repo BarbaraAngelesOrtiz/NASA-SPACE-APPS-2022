@@ -44,7 +44,7 @@ When the mass is at the top of the structure, the stored gravitational potential
 
 To improve the phase adjustment that must be meshed between the input and output rings in a planetary gear set, we propose to use Gear Bearings (GSC-TOPS-12) [3]
 
-![NASA](https://user-images.githubusercontent.com/105976212/193467433-d8355234-7d51-4944-b7a7-097d57d30034.png)
+![NASA](https://user-images.githubusercontent.com/105976212/193467582-713aba78-7c28-4b76-aa91-bc5d2cd444ec.png)
 
 In addition, we opted for a planetary roller screw given the adverse conditions of the planet with a guide for the load and considering the experience prior to its positive operation on Mars. [4]
 
