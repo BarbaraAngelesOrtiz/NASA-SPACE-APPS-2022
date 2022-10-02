@@ -1,7 +1,7 @@
 # NASA-SPACE-APPS-2022
 # Energy storage with gravitational batteries
 
-## HIGH-LEVEL PROJECT SUMMARY
+## HIGH-LEVEL PROJECT SUMMARY 🗣
 
 We propose the use of gravitational batteries: a mass rises mechanically, storing energy. When descending a mechanical system converts the vertical movement into rotation, which drives the generator. The stored energy is proportional to the mass and height, using simple mechanical elements. In addition, a vertical axis wind turbine will recharge our battery, using surface winds, weak and erratic, but useful due to the high atmospheric density. The final design is a 4000 kg lander, the majority corresponding to the weight of the batteries, with autonomy of 3 hours without winds and a power of 10 W, ideal for continuous meteorological and geological observation.
 
@@ -9,15 +9,15 @@ We propose the use of gravitational batteries: a mass rises mechanically, storin
 
 [LINK TO PROJECT DEMO](https://www.youtube.com/watch?v=hZvbg2aI_v4)
 
-## DETAILED PROJECT DESCRIPTION
+## DETAILED PROJECT DESCRIPTION 📊
 
-### Atmospheric conditions of Venus
+### Atmospheric conditions of Venus 🚩
 
 Previous missions have shown that venus surface winds are erratic and weak, but a windmill would be able to generate power under these conditions thanks to the high atmospheric density of 67 kg/m3, which is 55 times 1, 2 kg/m 3 of the earth's atmosphere. Vertical axis windmills are most efficient with low wind speeds, regardless of the direction from which it comes or the speed with which it varies. In fact, a wind of only 1.5 m/s is equivalent in terms of energy to a wind of 6 m/s on earth.
 
 Venus has a thick, toxic atmosphere filled with carbon dioxide and it’s perpetually shrouded in thick, yellowish clouds of sulfuric acid that trap heat, causing a runaway greenhouse effect. It’s the hottest planet in our solar system, even though Mercury is closer to the Sun. Surface temperatures on Venus are about 900 degrees Fahrenheit (475 degrees Celsius) – hot enough to melt lead. [1]
 
-### Vehicle features
+### Vehicle features 🚀
 
 We chose to design a fully mechanical system due to the high temperatures and corrosive atmosphere. Analyzing the following table, we propose to use the titanium material for its melting point.
 
@@ -27,9 +27,9 @@ The main structure of the lander consists of a 4 m wide hexagon with 2 m sides, 
 
 ![Side View](https://user-images.githubusercontent.com/105976212/193466769-c585c38d-bb29-4a49-a84b-e4c3edcdd418.png)
 
-![Top View(https://user-images.githubusercontent.com/105976212/193466775-ec24064f-9f22-4ced-8ea1-921f0528abca.png)
+![Top View](https://user-images.githubusercontent.com/105976212/193466775-ec24064f-9f22-4ced-8ea1-921f0528abca.png)
 
-### Storage system features
+### Storage system features ⚡️
 
 A gravitational battery, essentially a mass that can move vertically along with a support or guide structure. [2]
 A mechanical system that links the mass and the generator through a vertical axis, transforming vertical displacements into rotation.
@@ -63,13 +63,11 @@ The system to have 3 gravitational batteries with its generator, is redundant in
 
 [2] Energy Vault, EVRC Energy Vault Resiliency Center <https://www.energyvault.com/gravity>
 
-[3] NASA, Mechanical And Fluid Systems
-
-Gear Bearings (GSC-TOPS-12) <https://technology.nasa.gov/patent/GSC-TOPS-12>
+[3] NASA, Mechanical And Fluid Systems Gear Bearings (GSC-TOPS-12) <https://technology.nasa.gov/patent/GSC-TOPS-12>
 
 [4] Matthew Redmond NASA Jet Propulsion Laboratory, Thermal Testing of a Planetary Roller Screw for the Mars 2020 Rover Sample Caching System, California Institute of Technology, 03/28/2017
 
-## TAGS 
+## TAGS 🌐
 
 #NASA #Energy #Venus #GravitationalBatteries #EnergyStorage
 
