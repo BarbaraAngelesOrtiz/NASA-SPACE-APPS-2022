@@ -75,5 +75,16 @@ The system to have 3 gravitational batteries with its generator, is redundant in
 
 #NASA #Energy #Venus #GravitationalBatteries #EnergyStorage
 
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
 
 
