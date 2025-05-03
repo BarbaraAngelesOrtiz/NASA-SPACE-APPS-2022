@@ -84,7 +84,6 @@ The system to have 3 gravitational batteries with its generator, is redundant in
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
 
 
 
